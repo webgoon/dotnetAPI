@@ -34,15 +34,10 @@ dotnet ef database drop
 
 # Finally
 dotnet watch run
-
-
-
-
-
 dotnet ef database drop
 dotnet watch run
-==================================================================
-Note: In VS code if you too make a constuctor type ctor   << make a constructor
+
+# Note: In VS code if you too make a constuctor type ctor   << make a constructor
 
 Made a new source project
 https://github.com/webgoon/dotnetAPI.git
