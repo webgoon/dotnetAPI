@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-dotnettools.csharp",
+    "kreativ-software.csharpextensions",
+    "formulahendry.auto-complete-tag",
+    "pkief.material-icon-theme",
+    "patcx.vscode-nuget-gallery"
+  ]
+}
